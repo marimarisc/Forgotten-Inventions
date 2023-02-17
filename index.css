@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&display=swap');
+
+body {
+  background-color: rgb(157, 158, 172);
+}
+
+header {
+ font-family: "Babylonica", sans-serif;
+ text-align: center;
+}
+
+nav {
+  background-color: antiquewhite;
+  padding: 10px;
+}
+
+main {
+  background-color: cornsilk;
+}
