@@ -13,9 +13,12 @@ header {
 nav {
   background-color: antiquewhite;
   padding: 10px;
+  margin: 10px;
 }
 
 main {
   background-color: cornsilk;
+  padding: 10px;
+  margin: 20px;
 }
 
