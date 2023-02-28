@@ -34,4 +34,24 @@ section {
   text-align: center;
   padding: 10px;
   background-color: #ABD1B5;
+  margin: 10px;
+}
+
+a {
+  display: block;
+  color: #51291E
+}
+
+a:hover {
+  color: #EDF4ED
+}
+
+footer {
+  background-color: #301014;
+  text-align: center;
+  color: bisque;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
 }
