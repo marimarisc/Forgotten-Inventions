@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Mynerve&display=swap');
+body {
+  background-color: #51291E;
+   
+}
+
+header {
+ font-family: "Mynerve", sans-serif;
+ text-align: center;
+ color: #79B791;
+ size: 10%;
+}
+
+nav {
+  background-color: #301014;
+  padding: 10px;
+  margin: 10px;
+  color: #ABD1B5;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: aliceblue;
+}
+
+main {
+  background-color: #79B791;
+  padding: 10px;
+  margin: 20px;
+}
+
+section {
+  text-align: center;
+  padding: 10px;
+  background-color: #ABD1B5;
+  margin: 10px;
+}
+
+a {
+  display: block;
+  color: #51291E
+}
+
+a:hover {
+  color: #EDF4ED
+}
+
+footer {
+  background-color: #301014;
+  text-align: center;
+  color: bisque;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}

@@ -1,9 +1,14 @@
+body {
+    background-color: #01161E;
+}
+
 header {
     text-align: center;
-    color:
+    color: #598392;
 }
 section {
-    background-color:
+    background-color: #aec3ae;
+    text-align: center;
 }
 
 nav {
@@ -14,4 +19,15 @@ nav {
 a {
     color: #AEC3B0
     
+}
+
+main {
+    background-color: #598392;
+    text-align: center;
+}
+
+
+
+h2 {
+    color: bisque;
 }
